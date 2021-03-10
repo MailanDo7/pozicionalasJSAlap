@@ -26,7 +26,7 @@ footer {
 #kerdojel {
     position: fixed;
     right: 20px;
-    bottom: 0px;
+    bottom: 20px;
     z-index: 10;
 }
 
@@ -36,11 +36,6 @@ footer {
     top: 20px;
 }
 
-nav {
-    position: fixed;
-    left: 10px;
-    color: white;
-}
 #zar {
     position: absolute;
     top: -8px;
