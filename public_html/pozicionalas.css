@@ -1,0 +1,52 @@
+@charset "utf-8";
+
+/*position: fixed;
+static
+absulote
+relative*/
+
+header {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 10;
+}
+
+main {
+    padding-top: 100px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+}
+
+#kerdojel {
+    position: fixed;
+    right: 20px;
+    bottom: 0px;
+    z-index: 10;
+}
+
+#szamol {
+    position: relative;
+    right: -250px;
+    top: 20px;
+}
+
+nav {
+    position: fixed;
+    left: 10px;
+    color: white;
+}
+#zar {
+    position: absolute;
+    top: -8px;
+    right: 1px;
+}
+
+form {
+    position: relative;
+}
